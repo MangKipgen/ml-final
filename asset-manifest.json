@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MangKipgen.github.io/ML_Final-Spring2021/static/css/main.9edd4629.chunk.css",
+    "main.js": "/MangKipgen.github.io/ML_Final-Spring2021/static/js/main.ebb32257.chunk.js",
+    "main.js.map": "/MangKipgen.github.io/ML_Final-Spring2021/static/js/main.ebb32257.chunk.js.map",
+    "runtime-main.js": "/MangKipgen.github.io/ML_Final-Spring2021/static/js/runtime-main.d13a4c9c.js",
+    "runtime-main.js.map": "/MangKipgen.github.io/ML_Final-Spring2021/static/js/runtime-main.d13a4c9c.js.map",
+    "static/js/2.2e508133.chunk.js": "/MangKipgen.github.io/ML_Final-Spring2021/static/js/2.2e508133.chunk.js",
+    "static/js/2.2e508133.chunk.js.map": "/MangKipgen.github.io/ML_Final-Spring2021/static/js/2.2e508133.chunk.js.map",
+    "index.html": "/MangKipgen.github.io/ML_Final-Spring2021/index.html",
+    "static/css/main.9edd4629.chunk.css.map": "/MangKipgen.github.io/ML_Final-Spring2021/static/css/main.9edd4629.chunk.css.map",
+    "static/js/2.2e508133.chunk.js.LICENSE.txt": "/MangKipgen.github.io/ML_Final-Spring2021/static/js/2.2e508133.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d13a4c9c.js",
+    "static/js/2.2e508133.chunk.js",
+    "static/css/main.9edd4629.chunk.css",
+    "static/js/main.ebb32257.chunk.js"
+  ]
+}
